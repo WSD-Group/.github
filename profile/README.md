@@ -1,12 +1,25 @@
-## Hi there 👋
+# Willkommen auf dem offiziellen WSD GitHub 👋
 
-<!--
+Dies ist das offizielle GitHub-Profil von **WSD**. Hier werden alle offiziellen WSD-Repositories zentral verwaltet und gepflegt.
 
-**Here are some ideas to get you started:**
+## Über dieses Konto
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+In dieser Organisation findest du sämtliche offiziellen Projekte, Tools und Ressourcen von WSD. Repositories, die hier veröffentlicht werden, sind offiziell freigegeben und werden vom WSD-Team betreut.
+
+## Was du hier findest
+
+- Offizielle WSD-Projekte und Anwendungen
+- Gemeinsam genutzte Bibliotheken und Tools
+- Dokumentation und Ressourcen
+
+## Mitwirken
+
+Beiträge sind willkommen. Bitte beachte die jeweiligen Richtlinien in den einzelnen Repositories, bevor du einen Pull Request erstellst oder ein Issue eröffnest.
+
+## Kontakt
+
+Bei Fragen oder Anliegen wende dich gerne an das WSD-Team.
+
+---
+
+© WSD – Alle Rechte vorbehalten.
